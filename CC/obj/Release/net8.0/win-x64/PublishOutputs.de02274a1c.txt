@@ -1,0 +1,6 @@
+C:\sus\typhon\lilith\CC\bin\Release\net8.0\win-x64\publish\CC.pdb
+C:\sus\typhon\lilith\CC\bin\Release\net8.0\win-x64\publish\libHarfBuzzSharp.pdb
+C:\sus\typhon\lilith\CC\bin\Release\net8.0\win-x64\publish\libSkiaSharp.pdb
+C:\sus\typhon\lilith\CC\bin\Release\net8.0\win-x64\publish\Lilith.pdb
+C:\sus\typhon\lilith\CC\bin\Release\net8.0\win-x64\publish\BouncyCastle.Cryptography.xml
+C:\sus\typhon\lilith\CC\bin\Release\net8.0\win-x64\publish\CC.exe

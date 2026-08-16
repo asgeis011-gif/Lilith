@@ -1,0 +1,12 @@
+build
+*.o
+*.dll
+*.pdb
+
+
+*.sln
+*.slnx
+
+
+lilith/bin
+CC/bin

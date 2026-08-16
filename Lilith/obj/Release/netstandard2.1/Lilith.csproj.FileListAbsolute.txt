@@ -1,0 +1,11 @@
+C:\sus\typhon\lilith\lilith\bin\Release\netstandard2.1\lilith.deps.json
+C:\sus\typhon\lilith\lilith\bin\Release\netstandard2.1\lilith.dll
+C:\sus\typhon\lilith\lilith\bin\Release\netstandard2.1\lilith.pdb
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.csproj.AssemblyReference.cache
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.GeneratedMSBuildEditorConfig.editorconfig
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.AssemblyInfoInputs.cache
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.AssemblyInfo.cs
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.csproj.CoreCompileInputs.cache
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.sourcelink.json
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.dll
+C:\sus\typhon\lilith\lilith\obj\Release\netstandard2.1\lilith.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e13bgQtUyMs=",
+  "success": true,
+  "projectFilePath": "C:\\sus\\typhon\\lilith\\Lilith\\Lilith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\honghong\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\honghong\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
